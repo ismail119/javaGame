@@ -10,7 +10,7 @@ import javax.imageio.stream.FileImageInputStream;
 
 public class Chicken {
     private BufferedImage chicken;
-    public int chicken_xPosition = 185, chicken_yPosition=70;
+    public int chicken_xPosition = 185, chicken_yPosition=40;
     private LevelDesigns results = new LevelDesigns();
     public int gravity=1;
     

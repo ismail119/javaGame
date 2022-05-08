@@ -11,7 +11,7 @@ public class GameProject {
         gamePanel.addKeyListener(gamePanel);
         gamePanel.setFocusable(true);
         gamePanel.setFocusTraversalKeysEnabled(false);
-        gamePanel.AddCatForLevel0();
+        gamePanel.AddCatAndStarForLevel0();
         gameframe.add(gamePanel);
         gameframe.setVisible(true);
        
